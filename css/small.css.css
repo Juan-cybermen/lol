@@ -1,0 +1,51 @@
+
+h2 {
+	padding-top: 9rem;
+}
+
+
+
+
+
+
+
+/*
+ * Container Styles
+*/
+.container {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+/*
+ *  IMG Styles
+*/
+
+.brutal img {
+	margin: 0px 140px 0px 100px;
+}
+
+.menso img {
+	margin: 0px 0px 0px 220px;
+	padding: 0px;
+
+}
+
+.regalo img {
+	margin: 0px 160px 0px 0px;
+}
+
+/*
+ * First, Second, Third Styles
+*/
+
+.first, .second, .third {
+	float: inherit;
+}
+
+iframe {
+	width: 450px;
+	margin-left: 20px;
+	height: 400px;
+}
